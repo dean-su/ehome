@@ -1,0 +1,43 @@
+html, body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width:  100%;
+}
+h4,h5,p {
+  padding: 0;
+  margin: 0;
+}
+
+.content {
+  padding:  10px;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: "微软雅黑";
+  color:  #949494;
+}
+
+.content p {
+  text-indent: 20px;
+}
+.content h4 {
+  font-size: 18px;
+  font-weight: normal;
+  color: #000;
+}
+.content h5 {
+  font-size: 16px;
+  margin: 5px 0;
+  color:  #000;
+  font-weight: normal;
+}
+.text-center {
+  text-align: center;
+}
+.header {
+  padding:  15px 0;
+}
+.footer {
+  padding: 15px 0 0 0;
+}
